@@ -1,2 +1,3 @@
-# Deteksi-Diabetes-dengan-ANN
-Deteksi Dini Penyakit Diabetes Menggunakan Artificial Neural Network
+# Deteksi-Diabetes-menggunakan-ANN
+Deteksi Dini Penyakit Diabetes Menggunakan Artificial Neural Network (ANN)
+
